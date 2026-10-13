@@ -6,10 +6,8 @@ Halaman ucapan menggunakan **template HTML mandiri** sehingga tidak menampilkan 
 
 ## Pratinjau
 
-Tambahkan tangkapan layar ke repositori, misalnya `screenshots/daftar-ulang-tahun.png` dan `screenshots/halaman-ucapan.png`, kemudian aktifkan tautan berikut:
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/e2f5aa8e-5b54-4f8f-929e-013abcd3ac96" />
 
-<!-- ![Daftar ulang tahun](screenshots/daftar-ulang-tahun.png) -->
-<!-- ![Halaman ucapan](screenshots/halaman-ucapan.png) -->
 
 ## Fitur
 
