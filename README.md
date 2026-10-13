@@ -7,6 +7,8 @@ Halaman ucapan menggunakan **template HTML mandiri** sehingga tidak menampilkan 
 ## Pratinjau
 
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/e2f5aa8e-5b54-4f8f-929e-013abcd3ac96" />
+<img width="1166" height="604" alt="image" src="https://github.com/user-attachments/assets/af3ea7b2-aa45-4aee-93a4-6e5da6ced436" />
+
 
 
 ## Fitur
