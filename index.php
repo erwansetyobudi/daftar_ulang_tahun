@@ -21,7 +21,8 @@ function hut_base(){
   return ($https?'https://':'http://').($_SERVER['HTTP_HOST']??'localhost').$base.'/index.php?p=happybirthdayto';
 }
 function hut_url($name){return hut_base().'&name='.rawurlencode($name);}
-function hut_wa($name,$url){return 'Selamat ulang tahun, '.$name.'!‚ Semoga senantiasa sehat, bahagia, dan sukses. Salam hangat dari Perpustakaan. Ada ucapan spesial untukmu: '.$url;}
+function hut_wa($name,$url){
+  return 'Selamat ulang tahun, '.$name.'! Semoga senantiasa sehat, bahagia, dan sukses. Salam hangat dari Perpustakaan '.$library_name.'. Ada ucapan spesial untukmu: '.$url;}
 function hut_wa_number($phone){
   $digits=preg_replace('/\D+/', '', (string)$phone);
   if($digits==='')return '';
